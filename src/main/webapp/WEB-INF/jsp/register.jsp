@@ -8,7 +8,7 @@
 <div>
     <h1 style="text-align:center;"><fmt:message key="register.title"/></h1>
 
-    <form action="/helloWorld/register.html" method="post">
+    <form action="/register.html" method="post">
         <fieldset style="width:340px;margin-left:450;">
             <table>
                 <tr>

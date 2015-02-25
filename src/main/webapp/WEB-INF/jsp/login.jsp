@@ -9,7 +9,7 @@
     <h1 style="text-align:center;"><fmt:message key="login.title"/></h1>
 
     <div style="margin-left:450;">
-        <form action="/helloWorld/login.html" method="post">
+        <form action="/login.html" method="post">
 
             <fieldset style="width:340px;">
                 <table>

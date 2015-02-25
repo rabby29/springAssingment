@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <td>
-                <a href="/helloWorld/logout.html">Logout</a>
+                <a href="/logout.html">Logout</a>
             </td>
         </tr>
     </table>

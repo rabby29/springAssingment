@@ -38,6 +38,9 @@ public class RegistrationController extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+        log.debug("debug");
+        log("debug");
         User registeringUser = new User();
         registeringUser.setUserName(request.getParameter("userName"));
         registeringUser.setPassword(request.getParameter("password"));
